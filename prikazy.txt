@@ -1,0 +1,4 @@
+git clone https://github.com/Trebesin-coding/ukol-github-prikazy-lcvelyaniss.git
+git add .
+git commit -m "obrazek"
+git push origin main
